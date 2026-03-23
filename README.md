@@ -17,7 +17,7 @@ The app allows users to manage products, update stock levels inline, apply filte
 Clone the repository:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/terabucket/product-inventory-dashboard-main.git
 cd product-inventory
 npm install
 npm run dev
